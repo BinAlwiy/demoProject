@@ -28,3 +28,9 @@ button:hover{
     background-color: blue;
     color: white;
 }
+.image-search{
+    padding-right: 180px;
+    padding-left: 180px;
+    display: flex;
+    justify-content: right;
+}
